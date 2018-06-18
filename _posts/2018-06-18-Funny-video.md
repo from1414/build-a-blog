@@ -1,0 +1,6 @@
+---
+layout: post
+title: Funny Video
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HiQlZUBGz7o?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
