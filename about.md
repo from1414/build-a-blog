@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Charlottesville High School Senior and I'm 16 years old. I used to play violin in the orchestra but now the viola. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself!!
+I like to go on Netflix, Go90, and YouTube on my free time. I like to read non-fiction and fiction books, I also like to read comics. Most of the genre I prefer are comedy, mystery and romance. I like to travel but haven't traveled too much.
 
 ### Contact me
 
-[c4kmaker@computers4kids.net](mailto:c4kmaker@computers4kids.net)
+[niedia14washington14@gmail.com](mailto:niedia14washington14@gmail.com)
